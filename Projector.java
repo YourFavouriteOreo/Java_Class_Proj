@@ -14,15 +14,15 @@ public class Projector
         //Check if projector is off
         if (!state){
             //Turn projector on
-            state = true;
+            this.state = true;
         }
         else {
             //Turn projector off 
-        state = false;}
+        this.state = false;}
     }
     public void checkState(){
         //print projector state
-        System.out.println(state);
+        return this.state;
     }
     
 }

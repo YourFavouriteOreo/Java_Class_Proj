@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AC()
+comment1.params=
+comment1.target=void\ changeState()
+comment2.params=
+comment2.target=boolean\ checkState()
+comment3.params=
+comment3.target=int\ checktemp()
+numComments=4
